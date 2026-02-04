@@ -4,7 +4,7 @@ Here, you can gain the required skills and knowledge about the extraordinary
 world of Artificial Intelligence with ❣️Smart AI Notes Smart AI Notes is a free educational website focused on Artificial Intelligence learning resources.
 
 🌐 Live Website
-
+https://satyampandeyai1.github.io/Gen-educator.ai/
 
 📘 About This Project
 This website provides clear and simple Artificial Intelligence notes in PDF format for students and beginner.
