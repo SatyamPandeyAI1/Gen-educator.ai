@@ -33,6 +33,12 @@ header h1 {
 /* ===== Main Content ===== */
 main {
     padding: 16px;
+    max-width: 750px;   /* text बहुत फैलने से रोकता है */
+    margin: auto;       /* center करता है */
+}
+
+p {
+    text-align: justify;   /* text बराबर लाइन में आता है */
 }
 
 /* ===== Hero / Banner Image ===== */
