@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://satyampandeyai1.github.io/Gen-educator.ai/sitemap.xml
